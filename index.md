@@ -33,3 +33,11 @@
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+## Printing Text in Python
+
+In Python, you can use the `print()` function to display text. Here's a simple example of how to print "Hello, World!" in Python:
+
+```python
+print("Hello, World!")
+
+
