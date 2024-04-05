@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on getting my portfolio off the ground and starting my journey into Data Analysis.
 - 🌱 I’m currently learning the basics of SQL and Python for Data Analysis.
-- 🤔 I’m looking for help with pathways into a career in data analytics.
-- ⚡ "Without data, you're just another person with an opinion." - W. Edwards Demming.
+- 🤔 Open to networking and finding out more about data gathering, cleaning and presenting. 
 
 
 ---
