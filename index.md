@@ -1,5 +1,5 @@
 ## Portfolio
-<br>
+
 ### Hi folks! 👋
 
 - 🔭 I’m currently working on getting my portfolio off the ground and starting my journey into Data Analysis.
