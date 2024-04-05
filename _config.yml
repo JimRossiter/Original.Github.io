@@ -1,7 +1,8 @@
 title: Jim Rossiter  # your name (or website title) here
 logo: "IMG_20240405_014232.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  '''python Print Hello Workd 
+  '''python print("Hello, world!")
+
   <br>
   Maths & Science Teacher with a passion for STEM and a curiosity for all things data! 
   <br><br>
