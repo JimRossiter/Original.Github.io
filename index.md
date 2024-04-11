@@ -24,7 +24,7 @@ I am a qualified secondary school teacher in Maths and Physics. From my sporting
 [Project 3 Title](http://example.com/)
 <img src="">
 
----
+
 | Project Title| Tools | Completed |
 |----------|----------|----------|
 | Data 1   | Data 2   | Data 3   |
