@@ -1,3 +1,11 @@
+## [About Me](/aboutme)
+<img src=''>
+
+---
+
+
+
+
 # Portfolio
 
 ## [Learning Journal](/Journal)
