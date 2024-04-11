@@ -7,7 +7,7 @@ This week has been an enlightening journey into the world of SQL on DataCamp. He
 3. **Mastering Join Queries**: Constructing join queries efficiently using ON clauses was essential. For instance, joining tables on multiple columns like ON A.ID = B.ID AND A.Name = B.Name helped me merge datasets accurately, considering multiple criteria.
 
 4. **Using UNION and UNION ALL**: Understanding the difference between UNION and UNION ALL was key. For instance, when combining the results of two SELECT statements, UNION removes duplicate rows, while UNION ALL retains all rows, even duplicates.
-
+![](/images.png)
 5. **Code Writing Convention**: Adhering to code writing conventions, such as using uppercase for SQL keywords and lowercase for table and column names, improved code readability. For example, writing SELECT column1, column2 FROM table_name instead of select Column1, Column2 from TableName enhanced clarity.
 
 6. **Applying Aliases**: Utilizing aliases for tables and columns improved query clarity. For example, using aliases like SELECT e.ID AS EmployeeID, e.Name AS EmployeeName FROM Employees e reduced typing and made queries more concise.
