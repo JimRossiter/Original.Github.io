@@ -1,10 +1,6 @@
-## Portfolio
+### Portfolio
 
-### Hi folks! 👋
-
-- 🔭 I’m working on getting my portfolio off the ground and starting my journey into Data Analysis.
-- 🌱 I’m learning the basics of SQL and Python for Data Analysis.
-- 🤔 Open to networking and finding out more about data gathering, cleaning and presenting. 
+# [Learning Journal](/Journal)
 
 ---
 
