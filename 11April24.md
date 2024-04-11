@@ -22,7 +22,16 @@ This week has been enjoyable on my journey into the world of SQL on DataCamp. He
 
 Overall, this week's journey has equipped me with valuable SQL skills and insights that I'm eager to apply in future data analysis projects. 
 
+---
+**Common queries to remember:**
 ```sql
-SELECT * FROM your_table WHERE condition;
+SELECT *
+FROM population
+
+LIMIT 5;
+
+ORDER BY founding_year DESC
+ORDER BY person_age ASC
 ```
+
 
