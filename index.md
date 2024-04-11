@@ -6,10 +6,6 @@
 - 🌱 I’m learning the basics of SQL and Python for Data Analysis.
 - 🤔 Open to networking and finding out more about data gathering, cleaning and presenting. 
 
-
----
-### [Learning Journal](/Journal) 
-
 ---
 
 ### SQL Projects
