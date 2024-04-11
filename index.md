@@ -5,9 +5,9 @@ I am a qualified secondary school teacher in Maths and Physics. From my sporting
 ---
 
 
-# **Portfolio**
+## **Portfolio**
 
-### [Learning Journal](/Journal) - *click to read*
+[Learning Journal](/Journal) - *click to read*
 ---
 
 ## Projects
