@@ -1,7 +1,6 @@
 # Portfolio
 
 ## [Learning Journal](/Journal)
-
 ---
 
 ## Projects
