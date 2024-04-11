@@ -11,6 +11,7 @@ I am a qualified secondary school teacher in Maths and Physics. From my sporting
 ---
 
 ## Projects
+*Microsoft Excel*
 
 [Project 1 Title]()
 <img src="">
@@ -24,4 +25,10 @@ I am a qualified secondary school teacher in Maths and Physics. From my sporting
 <img src="">
 
 ---
+| Project Title| Tools | Completed |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+| Data 7   | Data 8   | Data 9   |
+
 
