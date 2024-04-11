@@ -21,3 +21,8 @@ This week has been enjoyable on my journey into the world of SQL on DataCamp. He
 10. **Practice and Application**: Regularly practicing coding exercises and real-world scenarios on DataCamp's platform reinforced my understanding of SQL. For example, solving exercises that involved joining multiple tables and filtering data sharpened my SQL skills and problem-solving abilities.
 
 Overall, this week's journey has equipped me with valuable SQL skills and insights that I'm eager to apply in future data analysis projects. 
+
+```sql
+SELECT * FROM your_table WHERE condition;
+```
+
