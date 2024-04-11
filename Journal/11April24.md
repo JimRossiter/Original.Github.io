@@ -7,9 +7,9 @@ This week has been enjoyable on my journey into the world of SQL on DataCamp. He
 2. **Exploring Joins**: Looking into different types of joins like INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN was challenging at first. I watched a good YouTube video from Alex the Analyst and now have a better grasp. For example, when combining data from two tables based on a common column (e.g., employee ID), INNER JOIN returns only matching rows, while LEFT JOIN returns all rows from the left table and matching rows from the right table.
 
 3. **Mastering Join Queries**: Constructing join queries efficiently using ON clauses was essential. For instance, joining tables on multiple columns like ON A.ID = B.ID AND A.Name = B.Name helped me merge datasets accurately, considering multiple criteria. I find the picture below a help also.
----
+
    ![](/images/sqljoins.png)
----
+
 4. **Using UNION and UNION ALL**: Understanding the difference between UNION and UNION ALL. When combining the results of two SELECT statements, UNION removes duplicates, while UNION ALL retains all rows, even duplicates.
 
 5. **Code Writing Convention**: Adhering to code the writing convention set out by Holywell, such as using uppercase for SQL keywords and lowercase for table and column names, improves code readability. For example, writing SELECT column1, column2 FROM table_name instead of select Column1, Column2 from TableName enhances clarity. It is better for collaboration to have standard practice.
