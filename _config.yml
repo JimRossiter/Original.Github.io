@@ -4,7 +4,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Data Analyst & an experienced Maths Secondary School teacher. Avid sports fan. Open to networking and discussion of work.
   <br><br>
-  <a href="https://www.linkedin.com/in/jim-rossiter-766a361a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">View My LinkedIn Profile</a>  
+  <a href="https://www.linkedin.com/in/jim-rossiter-766a361a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">View My LinkedIn Profile</a>
+
+  <br><br>
+footer:
+  - if: site.github.is_project_page
+    then: "<p>This project is maintained by <a href=\"{{ site.github.owner_url }}\">{{ site.github.owner_name }}</a></p>"
+  - "<p><small>Hosted on GitHub Pages &mdash; Theme by <a href=\"https://github.com/orderedlist\">orderedlist</a></small></p>"
+  - "<a href=\"Jimrossiter.github.io.io"><img src="/images/home.png" alt=\"House\" style=\"width: 50px; height: 50px;\"></a>"
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
