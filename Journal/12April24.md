@@ -26,7 +26,7 @@ FROM students
 WHERE Inter_dom='Inter'
 GROUP BY "Region";
 
-'''
+```
 
 Next, I grouped together International students by the region they were from. This was interesting to investigate the relationship between their home region and their survey scores.
 
