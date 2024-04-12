@@ -1,4 +1,4 @@
-# 12 April 2024 - Sub queries and joining data in SQL
+# 12 April 2024 - Sub-queries and joining data in SQL
 
 Today's dive into SQL was eye-opening, especially when it came to joining data. I spent some time with DataCamp's "Joining Data in SQL" course, and  I felt like I learnt a lot! I am starting to notice my skills are progressing and my understanding is growing.
 
