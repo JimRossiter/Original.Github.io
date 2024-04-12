@@ -1,10 +1,10 @@
 title: Jim Rossiter  # your name (or website title) here
 logo: "IMG_20240405_014232.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <a href="https://www.linkedin.com/in/jim-rossiter-766a361a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="linked.png" style=\"width: auto; height: auto;\"></a>
   <br><br>
   Data Analyst & an experienced Maths Secondary School teacher. Avid sports fan. Open to networking and discussion of work.
-  <a href="https://www.linkedin.com/in/jim-rossiter-766a361a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="linked.png" style=\"width: auto; height: auto;\"></a>
-
+  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
