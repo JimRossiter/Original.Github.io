@@ -1,4 +1,5 @@
-## April 15th - CASE WHEN queries
+*15 April 2024*
+## CASE WHEN queries
 
 Today, I learned about using CASE WHEN in SQL to make decisions in a query. It's like using if-else statements that I am familiar with in Excel. This skill will be handy whenever I need to categorize or transform data based on specific conditions in SQL queries.
 
