@@ -4,7 +4,7 @@ I am a qualified secondary school teacher in Maths and Physics. From my sporting
 
 ---
 
-<img src="clickme.jpg" alt="drawing" width="20"/>
+<img src="IMG_20240413_223600.png" alt="drawing" width="20"/>
 ## [Learning Journal 🧑‍💻📝](/Journal) 
 ---
 
