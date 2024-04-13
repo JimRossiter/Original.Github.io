@@ -16,32 +16,17 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-   <style>
-      header {
-         text-align: center;
-         background-image: url('background.jpg');
-         background-size: cover;
-         background-position: center;
-         padding: 20px; /* Adjust padding as needed */
-      }
-      header h1 {
-         margin-bottom: 10px;
-      }
-      header img {
-         border-radius: 20px;
-      }
-   </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
 </head>
-<body>
+<body style="background-color: #fffee4;">
 
    <div class="wrapper">
-      <header>
+      <header style="text-align: center;">
          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
-         <img src="{{site.logo | relative_url}}" alt="Logo" />
+         <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 20px;" />
          {% endif %}
          <p>{{ site.description | default: site.github.project_tagline }}</p>
          {% if site.github.is_project_page %}
