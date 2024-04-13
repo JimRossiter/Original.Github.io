@@ -35,7 +35,7 @@ SELECT
 FROM matches_germany
 GROUP BY home_team;
 ```
-🔼 This query looked at the matches in the German football league between FC Schalke 04 and Bayern Munich. The output was a table which counted the number of games outside of this fixture, classified as 'Other' and the result for Schalke 04 and Bayern Munich was 68. This meant they played each other on 68 occasions.
+🔼 This query looked at the matches in the German football league where the home team was either FC Schalke 04 or Bayern Munich. The output was a table which counted the number of games for each team at their home venue. Outside of this, where neither team was playing at home, matches were classified as 'Other'.
 
 ---
 
