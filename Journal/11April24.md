@@ -1,4 +1,5 @@
-## April 11th 2024 - SQL Fundamentals
+*April 11th 2024*
+## SQL Fundamentals
 ---
 This week has been enjoyable on my journey into the world of SQL on DataCamp. Here are some key points I've learned, with some examples of key learnings:
 
