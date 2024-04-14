@@ -3,7 +3,8 @@ I am a qualified secondary school teacher in Maths and Physics. From my sporting
 
 
 ---
-## 🔗 [My SQL Learning Journal 🧑‍💻](/Journal) 
+## Track my work:
+## 🔗 [SQL Learning Journal 🧑‍💻](/Journal) 
 ---
 
 ## Projects 📈📊📉
