@@ -9,6 +9,6 @@
 ### [Using CASE WHEN with Aggregate functions](/Journal/16April2024)
 ### [Common Table Expressions (CTE)](/Journal/18April2024)
 ### [Window Functions with Over & Partition By](/Journal/19April2024)
-
+### [Sliding Windows](/Journal/19April2024a)
 
 
