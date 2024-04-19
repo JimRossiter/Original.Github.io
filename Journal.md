@@ -10,5 +10,5 @@
 ### [Common Table Expressions (CTE)](/Journal/18April2024)
 ### [Window Functions with Over & Partition By](/Journal/19April2024)
 ### [Sliding Windows](/Journal/19April2024a)
-
+### [Understanding SQL Frames](/Journal/20April2024)
 
