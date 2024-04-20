@@ -11,4 +11,4 @@
 ### [Window Functions with Over & Partition By](/Journal/19April2024)
 ### [Sliding Windows](/Journal/19April2024a)
 ### [Understanding SQL Frames](/Journal/20April2024)
-
+### [The difference between ROW and RANGE in Windows](/Journal/21April2024) 
