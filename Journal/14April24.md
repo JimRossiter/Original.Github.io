@@ -41,4 +41,5 @@ This experience showed me just how powerful SQL can be for slicing and dicing da
 - Saw how they work together to fetch specific data.
 - Excited to keep exploring SQL and its capabilities.
 
-
+## Some Revision of Joins!
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DuX2NAct6lGaIVtstSRGXgV_4WeZ7fk3DWkBTVFRwIylzZrm5-JRIU0&s=10) 
