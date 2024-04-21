@@ -12,3 +12,4 @@
 ### [Sliding Windows](/Journal/19April2024a)
 ### [Understanding SQL Frames](/Journal/20April2024)
 ### [The difference between ROW and RANGE in Windows](/Journal/21April2024) 
+### [Using ROLLUP & CUBE with GROUP BY](/Journal/22April2024)
