@@ -1,6 +1,9 @@
-## **About Me**  
-I am a qualified secondary school teacher in Maths and Physics. From my sporting and academic background, I have always maintained a keen interest in data analytics. I enjoy the process of leveraging data to inform decisions and translating big data into aestethic visualisations. Eager to constantly develop my skills in Excel, SQL, Tableau/Power Bi and Python.
+# **<p style="text-align: center;">About Me</p>**
+A dedicated data analyst with a background in secondary education specializing in Maths and Physics, my passion lies in harnessing the power of data to drive informed decisions and create impactful visualizations. 
 
+With expertise in Excel, SQL, and Python, I excel in extracting insights from complex datasets and crafting compelling narratives through data-driven storytelling. My analytical skills, honed through years of academic and sporting endeavors, enable me to delve deep into data, uncover trends, and deliver actionable insights that drive positive outcomes. 
+
+Continuously seeking opportunities for growth and learning, I am committed to pushing the boundaries of data analysis to drive innovation and make a lasting impact in the field.
 
 ---
 ## Track my work:
