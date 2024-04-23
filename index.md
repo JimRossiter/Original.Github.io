@@ -6,7 +6,7 @@ With expertise in Excel, SQL, and Python, I excel in extracting insights from co
 Continuously seeking opportunities for growth and learning, I am committed to pushing the boundaries of data analysis to drive innovation and make a lasting impact in the field.
 
 ---
-## Track my work:
+# <center> Track My Work: </center>
 ## 🔗 [SQL Learning Journal 🧑‍💻](/Journal) 
 ---
 
@@ -24,11 +24,5 @@ Continuously seeking opportunities for growth and learning, I am committed to pu
 [Project 3 Title](http://example.com/)
 <img src="">
 
-
-| Project Title| Tools | Completed |
-|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
-| Data 7   | Data 8   | Data 9   |
 
 
