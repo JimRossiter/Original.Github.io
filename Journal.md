@@ -17,4 +17,6 @@
 ### [Exploring Date & Time functions](/Journal/24April2024)
 
 Strings and substrings
+### [SQL Normalization & Denormalization](/Journal/26April2024)
 ### [Star Schema & Snowflake Schema](/Journal/01May2024)
+
