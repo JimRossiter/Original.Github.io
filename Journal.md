@@ -15,3 +15,6 @@
 ### [Using ROLLUP & CUBE with GROUP BY](/Journal/22April2024)
 ### [Pivoting Data in SQL](/Journal/22April2024a)
 ### [Exploring Date & Time functions](/Journal/24April2024)
+
+Strings and substrings
+### [Star Schema & Snowflake Schema](/Journal/01May2024)
